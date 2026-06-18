@@ -15,9 +15,7 @@ export default function MePage() {
               🚀
             </div>
 
-            <h1 className="mt-6 text-5xl font-bold">
-              Harsh Aggarwal
-            </h1>
+            
 
             <p className="mt-3 text-zinc-400 max-w-lg">
               Full-stack developer who spends 90% of the time building cool
