@@ -1,11 +1,8 @@
-import React from 'react'
-
-const TestPage2 = () => {
+export default function TestPage2() {
   return (
     <div>
-        i made a test page
+      <h1>Test Page 2</h1>
+      <p>Deploy is working!</p>
     </div>
   )
 }
-
-export default TestPage2
